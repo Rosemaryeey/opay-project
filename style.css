@@ -160,7 +160,7 @@ p{
 }
 .third:hover{
     opacity: 0.8px;
-    background-color: rgb(7, 207, 164);
+    background-color: gray;
     max-height: 500px;
 
 }
